@@ -1,1 +1,1 @@
-# StreamlineEDA
+# StreamlitEDA
